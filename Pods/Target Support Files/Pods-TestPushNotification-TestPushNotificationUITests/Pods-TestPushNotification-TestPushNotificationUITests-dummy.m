@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_TestPushNotification_TestPushNotificationUITests : NSObject
+@end
+@implementation PodsDummy_Pods_TestPushNotification_TestPushNotificationUITests
+@end
